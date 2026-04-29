@@ -1,0 +1,9 @@
+# Ignore data and large binaries
+data/
+*.zip
+*.h5
+*.keras
+
+# Ignore OS noise
+.DS_Store
+__pycache__/

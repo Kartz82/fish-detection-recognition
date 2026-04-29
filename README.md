@@ -13,7 +13,7 @@ This project uses a **public fish image dataset** containing **572 images total*
 
 Because GitHub has file size limitations, the dataset and large `.zip` files are hosted externally on Google Drive.
 
-[https://drive.google.com/file/d/17dh2Rrd67AF69YdQr8-R9io0kSeV9Fn5/view?usp=sharing](LINK_HERE)
+🔗 **[Access Original & Augmented Dataset (Google Drive)](https://drive.google.com/file/d/17dh2Rrd67AF69YdQr8-R9io0kSeV9Fn5/view?usp=sharing)**
 
 ### Class Distribution
 

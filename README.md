@@ -128,9 +128,9 @@ For a technical or support-oriented role, this also shows good judgment in handl
 
 ## Contact / Portfolio
 
-- GitHub: [Your GitHub Profile](Lhttps://github.com/Kartz82)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kartikeya-vemula/)
-- Email: [Your Email](vnskartikeya@gmail.com)
+- GitHub: [Kartz82](https://github.com/Kartz82)
+- LinkedIn: [Kartikeya Vemula](https://www.linkedin.com/in/kartikeya-vemula/)
+- Email: [vnskartikeya@gmail.com](vnskartikeya@gmail.com)
 
 ## Notes
 

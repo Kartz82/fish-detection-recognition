@@ -128,9 +128,9 @@ For a technical or support-oriented role, this also shows good judgment in handl
 
 ## Contact / Portfolio
 
-- GitHub: [Your GitHub Profile](LINK_HERE)
-- LinkedIn: [Your LinkedIn Profile](LINK_HERE)
-- Email: [Your Email](mailto:your.email@example.com)
+- GitHub: [Your GitHub Profile](Lhttps://github.com/Kartz82)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kartikeya-vemula/)
+- Email: [Your Email](vnskartikeya@gmail.com)
 
 ## Notes
 
